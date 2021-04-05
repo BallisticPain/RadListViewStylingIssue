@@ -1,0 +1,41 @@
+.listItemStackLayout {
+    background-color: mediumpurple;
+    padding-left: 5;
+}
+
+.labelName {
+    font-size: 20;
+    margin-bottom: 8;
+}
+
+.labelTitle {
+    font-size: 14;
+    font-weight: bold;
+}
+
+.labelText {
+    font-size: 12;
+}
+
+.leftViewStackLayout {
+    background-color: darkgreen;
+}
+
+.rightViewStackLayout {
+    background-color: blue;
+}
+
+.rightViewStackLayout > Label {
+    padding-left: 11;
+}
+
+.gridLayoutLayout {
+    background-color: white;
+}
+
+.swipeTemplateLabel {
+    color: white;
+    font-size: 32;
+    padding-top: 12;
+    width: 48;
+}
